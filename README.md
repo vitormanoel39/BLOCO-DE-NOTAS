@@ -14,7 +14,11 @@
   
 
 
-> para roda-ló no terminal abra dois terminais no primero coloque: npm start e no outro npx json-server --port 3000 --watch db.json
+> para roda-ló no terminal abra dois terminais e coloque os comados abaixos:
+
+-   [GitHub Stats Card](# npm start)
+-   [GitHub Extra Pins](#npx json-server --port 3000 --watch db.json)
+
 
 <div align="center">
   <br/>
