@@ -14,14 +14,7 @@
   
 
 
-> Este Readme serve pra auxilixar o visualizador a configurar o código.
-
-npm install -g json-server
-npm install axios
-npm install @mui/material @emotion/react @emotion/styled
-npm i @mui/icons-material 
-
-para roda-ló no terminal abra dois terminais no primero coloque: npm start e no outro npx json-server --port 3000 --watch db.json
+> para roda-ló no terminal abra dois terminais no primero coloque: npm start e no outro npx json-server --port 3000 --watch db.json
 
 <div align="center">
   <br/>
