@@ -1,8 +1,8 @@
 # BLOCO-DE-NOTAS<h1 align="center">
-📄<br>Readme Template
+📄<br> to-do-list
 </h1>
 
-## 📚 Ebook
+## 📚 BLOCO DE NOTAS
 
 > Este Readme serve pra auxilixar o visualizador a configurar o código.
 > 
