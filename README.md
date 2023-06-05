@@ -26,4 +26,4 @@
   <br/>
     <div>
      
-      <sub>Copyright © 2023 - <a href="https://github.com/vitormanoel39">vitormanoel39</sub></a>
+     
