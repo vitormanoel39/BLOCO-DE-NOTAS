@@ -25,7 +25,7 @@
   <br/>
   <br/>
     <div>
-      <h1>Open Source</h1>
+     
       <sub>Copyright © 2023 - <a href="https://github.com/vitormanoel39">vitormanoel39</sub></a>
     </div>
     <br/>
