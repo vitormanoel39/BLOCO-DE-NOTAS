@@ -5,6 +5,16 @@
 ## 📚 Ebook
 
 > Este Readme serve pra auxilixar o visualizador a configurar o código.
+> 
+-   [GitHub Stats Card](#npm install -g json-server)
+-   [GitHub Extra Pins](#npm install axioss)
+-   [Top Languages Card](#pm install @mui/material @emotion/react @emotion/styled)
+-   [Wakatime Week Stats](#npm i @mui/icons-material)
+
+  
+
+
+> Este Readme serve pra auxilixar o visualizador a configurar o código.
 
 npm install -g json-server
 npm install axios
