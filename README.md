@@ -14,7 +14,7 @@
   
 
 
-> para roda-ló no terminal abra dois terminais e coloque os comados abaixos:
+> para roda-ló no terminal abra dois terminais e coloque os comados abaixos na sequencia de cima para baixo.
 
 
 -  (npx json-server --port 3000 --watch db.json)
