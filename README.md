@@ -18,7 +18,7 @@
 
 
 -  (npx json-server --port 3000 --watch db.json)
--  
+  
 -  (npm start)
 
 
