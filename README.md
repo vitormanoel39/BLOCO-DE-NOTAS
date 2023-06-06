@@ -16,8 +16,10 @@
 
 > para roda-ló no terminal abra dois terminais e coloque os comados abaixos:
 
--  (npm start)
+
 -  (npx json-server --port 3000 --watch db.json)
+-  
+-  (npm start)
 
 
 <div align="center">
